@@ -43,6 +43,9 @@ public class Ejercicio5 {
         //Enviamos mensaje al usuario con el cuádruplo del número ingresado
         System.out.println("El triple del número es: "+num1*4);
         
+        //Enviamos mensaje al usuario con el cuadrado del número ingresado
+        System.out.println("El triple del número es: "+num1*num1);
+        
         //Enviamos mensaje al usuario con la raíz cuadrada del número ingresado
         System.out.println("La raíz cuadrada es: "+Math.sqrt(num1));
         
